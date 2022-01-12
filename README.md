@@ -1,3 +1,5 @@
+# Watch videos for Demo
+
 # CSCI311_FinalProject_MovieDB
 The objective of this project was to implement an application which required communication between a front-end application (Python) and a back-end DBMS (PL/SQL). In this project, I implemented a Movie Rental System (MRS) using c1_MMcreate database. The MRS contains a catalog of movies that can be managed, viewed, and rented out.  The MRS also contains a catalog of members and their payment options that can be managed and viewed.
 
